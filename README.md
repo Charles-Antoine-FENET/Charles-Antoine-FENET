@@ -1,10 +1,11 @@
 # <img src="https://user-images.githubusercontent.com/108330821/223682787-ed1480e3-2b93-4b60-a45a-caaf478351e9.png" alt="Avatar" width="100"> Hey there, I'm Charles-Antoine Fenet! 
+<div align="justify">
+I'm a front-end developer based in Grenoble passionate about entrepreneurship, creating things and by every new technologies. I love to learn and I'm always looking for opportunities to grow and improve my skills. <br/><br/>
+</div>
 <div align="center">
-I'm a front-end developer based in Grenoble passionate about entrepreneurship, creating things and by every new technologies. I love to learn and I'm always looking for opportunities to grow and improve my skills. <br/>
-
 Let's talk to see what we can build together. 🚀 
 
-
+<br/>
 <br/>
 
 [![Let's get in touch](https://img.shields.io/badge/Let's%20get%20in%20touch-%F0%9F%91%8B-blue?style=for-the-badge&logo=telegram)](mailto:charlesantoinefenet@yahoo.fr)
@@ -43,7 +44,7 @@ Let's talk to see what we can build together. 🚀
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-### Interested in 
+### Next steps 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -63,7 +64,7 @@ Let's talk to see what we can build together. 🚀
 
   
 #### Just one more thing...
-<div align="center">
+<div align="justify">
 I spent 10 years as a business developer for some of the most beautiful consumer products companies. Managing objectives, selling, negotiation, organization, questioning, and listening to find the real needs were among the many things I learned during that time. <br/><br/>
 In 2021, I decided to pursue an old dream of becoming a programmer and being able to create things from scratch with only my brain and my laptop. I'm convinced that combining my previous experiences with this new programming skill can be really interesting. <br/>Let's do it together 🔥
 </div>

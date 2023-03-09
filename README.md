@@ -9,7 +9,7 @@ Let's talk to see what we can build together. 🚀
 
 [![Let's get in touch](https://img.shields.io/badge/Let's%20get%20in%20touch-%F0%9F%91%8B-blue?style=for-the-badge&logo=telegram)](mailto:charlesantoinefenet@yahoo.fr)
 <br/>
-[![Download my Resume PDF](https://img.shields.io/badge/Télécharger%20mon%20CV-PDF-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/Charles-Antoine-FENET/Charles-Antoine-FENET/raw/main/assets/CV%202023%20Charles-Antoine-Fenet-Dev.pdf?raw=true)
+[![Download my Resume PDF](https://img.shields.io/badge/Download%20my%20Resume-PDF-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/Charles-Antoine-FENET/Charles-Antoine-FENET/raw/main/assets/CV%202023%20Charles-Antoine-Fenet-Dev.pdf?raw=true)
 
 
 </div>
